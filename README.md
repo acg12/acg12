@@ -1,4 +1,4 @@
-#👋 Hi, I’m Angela
+# 👋 Hi, I’m Angela
 - 👀 I’m interested in Data Science and Data Analytics
 - 🌱 I’m currently working on projects and strengthening my skills
 
