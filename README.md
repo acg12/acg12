@@ -1,4 +1,4 @@
-##👋 Hi, I’m Angela
+## 👋 Hi, I’m Angela
 
 [![🛠️ Languages and Tools](https://skillicons.dev/icons?i=py,tensorflow,sklearn,mysql,sqlite,c,cpp,java,swift,js,html,css,vscode,eclipse,figma,firebase,github,postgres,php,laravel,jquery,electron,atom&perline=10)](https://skillicons.dev)
 
