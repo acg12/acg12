@@ -1,14 +1,15 @@
 ## 👋 Hi, I’m Angela
 
-Interned at Apple Developer Academy, BSD, Indonesia (Cohort 6 - Mar to Dec 2023)
+<p>Interned at Apple Developer Academy, BSD, Indonesia (Cohort 6 - Mar to Dec 2023)</p><br/>
+<p>Computer Science Undergraduate at <a href="https://binus.ac.id/">Binus University, Indonesia</a></p>
 
-Computer Science Undergraduate at <a href="https://binus.ac.id/">Binus University, Indonesia</a>
+<p><a href="https://www.linkedin.com/in/angelachristabel/">[![LinkedIn][1528]][1528]</a></p>
 
-<h3>🛠 &nbsp;Languages</h3><br/>
+<h3>💻 Languages</h3><br/>
 
 [![Languages and Tools](https://skillicons.dev/icons?i=py,tensorflow,sklearn,mysql,sqlite,c,cpp,java,swift,js,html,css)](https://skillicons.dev)
 
-<h3>🛠 &nbsp;Tools</h3><br/>
+<h3>🛠️ Tools</h3><br/>
 
 [![Languages and Tools](https://skillicons.dev/icons?i=vscode,eclipse,figma,firebase,github)](https://skillicons.dev)
 
